@@ -1,3 +1,4 @@
+
 <template>
   <v-app class="layout">
     <v-app-bar color="blue" app dark>
@@ -29,4 +30,3 @@ query {
   }
 }
 </static-query>
-
